@@ -78,7 +78,7 @@ $table->foreignId('category_id')->constrained();
 ### 7. Выполните миграцию командой php artisan migrate
 
 ---
-![migration](storage\app\public\img\7_0.png "migration")
+![migration](storage/app/public/img/7_0.png "migration")
 ![migration](storage/app/public/img/7_1.png "migration")
 ![migration](storage/app/public/img/7_2.png "migration")
 
